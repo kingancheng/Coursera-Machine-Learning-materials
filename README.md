@@ -3,9 +3,8 @@
 ## 项目说明
 本项目整理自 Andrew Ng 在 Coursera 开设的 [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) 课程的配套资料，并为所有的 Jupyter Notebook 提供了对应的中文对照版。中文版本仅对 markdown 部分作翻译，代码部分保持原样。
 
-配套资料：
-- [机器学习中英术语对照表](术语表.md)
-- [B站中英双语字幕课程视频](https://www.bilibili.com/video/BV1DzANeaEDW)
+配套视频：[B站中英双语字幕课程视频](https://www.bilibili.com/video/BV1DzANeaEDW)
+
 
 ## 版本说明
 本项目仅保留课程资料的正式版本。历史版本、归档版本、日期快照和重复副本已清理。
