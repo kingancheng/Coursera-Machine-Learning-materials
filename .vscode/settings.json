@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "D:\\workspace_agent\\Coursera-Machine-Learning-Specialization-main\\.venv\\Scripts\\python.exe",
+  "jupyter.notebookFileRoot": "${fileDirname}",
+  "python.terminal.activateEnvironment": true,
+}
